@@ -1,2 +1,2 @@
 # DumpDomains
-Lists sub-domains through CRT lookup
+Lists sub-domains through crt.sh lookup
